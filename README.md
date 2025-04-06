@@ -67,3 +67,39 @@ Observations-
 🔹More than 25% of the revenue is given as discounts, significantly impacting both revenue and profit.
 
 🔹Average orders per customer helped to  Identify high-value vs. low-value customers which helps to deliver the orders based on customer priority.
+
+Project 2 - 
+📊 HR Analytics Dashboard | Power BI Project 🚀
+
+🎯 Project Goal:
+To analyze employee attrition trends and uncover actionable insights for improving retention and engagement using HR data.
+
+✅ What I Did:
+✔ Cleaned and modeled data covering: Age, Gender, Attrition, Department, Job Role, Education, OverTime, etc.
+✔ Built dynamic visuals with slicers, drill-throughs, and DAX measures
+✔ Explored relationships between attrition and job satisfaction, business travel, promotions, and more
+✔ Published interactive dashboard to Power BI Service with refresh & sharing
+
+📌 Key Metrics Visualized:
+🔹 Attrition Rate
+🔹 Average Tenure (Years at Company)
+🔹 Attrition by Department, Gender, Job Role
+🔹 Impact of OverTime & Business Travel
+🔹 Job Satisfaction & Work Life Balance
+🔹 Years Since Last Promotion & With Current Manager
+
+🔍 Insights Gained:
+📌 OverTime and frequent Business Travel strongly influence attrition
+📌 Employees without promotions for 2+ years are more likely to leave
+📌 Sales and HR departments show higher attrition vs R&D
+📌 Work Life Balance and Job Satisfaction play key roles in retention
+
+📚 Learnings:
+✅ Hands-on practice with real-world HR data
+✅ Advanced use of DAX for calculations like attrition %, avg tenure, and custom KPIs
+✅ Gained deeper understanding of how data analytics can support people strategy
+✅ Reinforced storytelling with visuals for decision-making
+
+📈 Tools Used: Power BI | DAX | Data Modeling | HR Analytics | Visualization
+
+
